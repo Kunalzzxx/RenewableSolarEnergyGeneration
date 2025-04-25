@@ -1,1 +1,2 @@
 # RenewableSolarEnergyGeneration
+The report represents the methods and techniques for the solar energy generation time series forecasting of Germany data. It will show the historical data from the year 2015 to 2020, ARIMA\SARIMA model  for performance and the effects of this forecasting accuracy of the solar energy generation to the German energy industries. Due to solar energy’s unpredictable nature, the forecasting ensures this energy type’s risks and are reduced to improve the grid reliability.
